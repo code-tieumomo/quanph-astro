@@ -39,6 +39,7 @@ z = 3.14 # biến z lưu giá trị 3.14
 
 ```python
 x = 5 # gán giá trị 5 cho biến x
+a, b, c = 1, 2, 3 # gán giá trị 1 cho biến a, 2 cho biến b và 3 cho biến c
 ```
 
 ## Đặt tên biến
