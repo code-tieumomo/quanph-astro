@@ -36,4 +36,7 @@ input(prompt)
 ```python
 name = input("Nhập tên của bạn: ")
 print("Xin chào,", name) # Xin chào, <tên của bạn>
+
+x = int(input("Nhập số x: ")) # x sẽ là số nguyên
+print(x + 10)
 ```
